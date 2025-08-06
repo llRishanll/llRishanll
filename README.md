@@ -6,22 +6,6 @@ I enjoy piecing together full systems like a puzzle: building APIs, designing DB
 
 ---
 
-### 🚀 Showcase Project: TaskMaster AI
-
-A full-stack AI-powered productivity manager that helps you generate, prioritize, and schedule your tasks — even from vague prompts.
-
-- Built with FastAPI, React (Vite), PostgreSQL, and OpenAI GPT-3.5
-- Supports Google OAuth2, email verification, and daily email reminders
-- Dockerized with multi-container setup and deployed on AWS EC2 + SES
-- [🌐 Live Demo](https://taskmaster-ai.com) · [💻 GitHub Repo](https://github.com/llRishanll/ai-productivity-dashboard)
-
-This was my first time owning an end-to-end project — from authentication and AI workflows to logging, 
-testing, and deployment. Learned a ton.
-
-<img width="2474" height="1413" alt="Screenshot 2025-08-06 092807" src="https://github.com/user-attachments/assets/1d164776-d474-4a42-8bda-b8a11ca7ed8c" />
-
----
-
 ### 🧰 My Stack (So Far)
 
 <h4>🧑‍💻 Programming Languages</h4>
@@ -79,6 +63,23 @@ testing, and deployment. Learned a ton.
     </td>
   </tr>
 </table>
+
+---
+
+### 🚀 Showcase Project: TaskMaster AI
+
+A full-stack AI-powered productivity manager that helps you generate, prioritize, and schedule your tasks — even from vague prompts.
+
+- Built with FastAPI, React (Vite), PostgreSQL, and OpenAI GPT-3.5
+- Supports Google OAuth2, email verification, and daily email reminders
+- Dockerized with multi-container setup and deployed on AWS EC2 + SES
+- [🌐 Live Demo](https://taskmaster-ai.com) · [💻 GitHub Repo](https://github.com/llRishanll/ai-productivity-dashboard)
+
+This was my first time owning an end-to-end project — from authentication and AI workflows to logging, 
+testing, and deployment. Learned a ton.
+
+<img width="2474" height="1413" alt="Screenshot 2025-08-06 092807" src="https://github.com/user-attachments/assets/1d164776-d474-4a42-8bda-b8a11ca7ed8c" />
+
 ---
 
 ### 🔎 What I’m Focused On Right Now
